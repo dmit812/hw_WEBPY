@@ -2,7 +2,7 @@ name: Тестирование проекта
 
 on:
   push:
-    branches: [video]
+    branches: [main]
 
 jobs:
   tests:
