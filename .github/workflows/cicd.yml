@@ -66,4 +66,3 @@ jobs:
           username: ${{ secrets.USER }}
           password: ${{ secrets.PASSWORD }}
           script: expect /home/dmit812/hw_WEBPY/deploy.exp
-          
